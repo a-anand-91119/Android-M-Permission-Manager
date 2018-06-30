@@ -1,0 +1,7 @@
+-classpath 'C:\\Users\\Anand\\AppData\\Local\\Android\\sdk\\platforms\\android-26\\android.jar'
+-d 'H:\\app\\PermissionLibraryProject\\permissionmanager\\build\\docs\\javadoc'
+-doctitle 'permissionmanager 1.0.0 API'
+-quiet 
+-windowtitle 'permissionmanager 1.0.0 API'
+'H:\\app\\PermissionLibraryProject\\permissionmanager\\src\\main\\java\\com\\androideasily\\aanand\\permissionmanager\\ModifyPreference.java'
+'H:\\app\\PermissionLibraryProject\\permissionmanager\\src\\main\\java\\com\\androideasily\\aanand\\permissionmanager\\PermissionManager.java'

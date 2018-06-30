@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Permission Manager</string>
+    <string name="permission_icon">Permission Icon</string>
+    <string name="default_message">Certain modules of this application needs this permission to work!</string>
+</resources>
