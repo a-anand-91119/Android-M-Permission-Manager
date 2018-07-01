@@ -168,7 +168,6 @@ public class PermissionManager {
             ActivityCompat.requestPermissions((Activity) context, groupRequest, GROUP_PERMISSION_REQUEST);
     }
 
-<<<<<<< HEAD
     public JSONArray updatePermissions(int requestCode, String[] permissions, int[] grantResults) {
         JSONArray returnArray = new JSONArray();
         if (requestCode == GROUP_PERMISSION_REQUEST) {
@@ -257,13 +256,5 @@ public class PermissionManager {
             default:
                 return R.drawable.baseline_warning_white_18dp;
         }
-    public boolean updatePermissions(int requestCode, String[] permissions, int[] grantResults) {
-        if (grantResults.length > 0 && grantResults[0] == PackageManager.PERMISSION_GRANTED) {
-            updatePreference(requestCode, true);
-            return true;
-        } else if (grantResults.length > 0 && grantResults[0] == PackageManager.PERMISSION_DENIED)
-            if (!ActivityCompat.shouldShowRequestPermissionRationale((Activity) context, permissions[0]))
-                updatePreference(requestCode, false);
-        return false;
     }
 }
