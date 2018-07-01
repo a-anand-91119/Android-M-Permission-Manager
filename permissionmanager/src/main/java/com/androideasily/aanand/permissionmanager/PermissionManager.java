@@ -257,7 +257,6 @@ public class PermissionManager {
             default:
                 return R.drawable.baseline_warning_white_18dp;
         }
-=======
     public boolean updatePermissions(int requestCode, String[] permissions, int[] grantResults) {
         if (grantResults.length > 0 && grantResults[0] == PackageManager.PERMISSION_GRANTED) {
             updatePreference(requestCode, true);
@@ -266,6 +265,5 @@ public class PermissionManager {
             if (!ActivityCompat.shouldShowRequestPermissionRationale((Activity) context, permissions[0]))
                 updatePreference(requestCode, false);
         return false;
->>>>>>> 3cf287a5fc83cb60964675a33b5af456bdff5a35
     }
 }
