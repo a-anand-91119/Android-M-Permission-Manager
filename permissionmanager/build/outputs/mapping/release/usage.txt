@@ -1,0 +1,7 @@
+com.androideasily.aanand.permissionmanager.BuildConfig
+com.androideasily.aanand.permissionmanager.ModifyPreference
+com.androideasily.aanand.permissionmanager.PermissionManager
+com.androideasily.aanand.permissionmanager.PermissionManager$1
+com.androideasily.aanand.permissionmanager.PermissionManager$2
+com.androideasily.aanand.permissionmanager.PermissionManager$3
+com.androideasily.aanand.permissionmanager.PermissionManager$4

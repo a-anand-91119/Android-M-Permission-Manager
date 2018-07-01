@@ -1,37 +1,37 @@
 -- Merging decision tree log ---
 manifest
-ADDED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml:1:1-2:60
-INJECTED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml:1:1-2:60
-INJECTED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml:1:1-2:60
-INJECTED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml:1:1-2:60
-INJECTED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml:1:1-2:60
-INJECTED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml:1:1-2:60
-INJECTED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml:1:1-2:60
+ADDED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml:1:1-2:60
+INJECTED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml:1:1-2:60
+INJECTED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml:1:1-2:60
+INJECTED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml:1:1-2:60
+INJECTED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml:1:1-2:60
+INJECTED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml:1:1-2:60
+INJECTED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml:1:1-2:60
 	package
-		ADDED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml:2:5-57
-		INJECTED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
-		INJECTED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
+		ADDED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml:2:5-57
+		INJECTED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
+		INJECTED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
-		ADDED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml:1:1-2:60
-		INJECTED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
+		INJECTED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
+		ADDED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml:1:1-2:60
+		INJECTED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
-		ADDED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml:1:1-2:60
-		INJECTED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
+		INJECTED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
+		ADDED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml:1:1-2:60
+		INJECTED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml:1:11-69
+		ADDED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml:1:11-69
 uses-sdk
-INJECTED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
-INJECTED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
-INJECTED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
-INJECTED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
+INJECTED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
+INJECTED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
+INJECTED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
+INJECTED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
-		ADDED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
-		INJECTED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
+		INJECTED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
+		ADDED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
+		INJECTED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
-		ADDED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
-		INJECTED from H:\app\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
+		INJECTED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
+		ADDED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
+		INJECTED from D:\Android_Projects\PermissionLibraryProject\permissionmanager\src\main\AndroidManifest.xml
